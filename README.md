@@ -1,6 +1,6 @@
-# ember-modlr
+# ember-loading-svc
 
-This addon adds [modlr](https://github.com/as3io/modlr) support to ember projects.
+This addon adds a central loading service for ember projects
 
 ## Installation
 

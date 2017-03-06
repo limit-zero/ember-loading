@@ -1,1 +1,1 @@
-export { default } from 'ember-loading/services/loading';
+export { default } from 'ember-loading-svc/services/loading';

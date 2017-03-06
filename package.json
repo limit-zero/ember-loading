@@ -1,6 +1,6 @@
 {
   "name": "ember-loading-svc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An ember-cli addon providing a central loading service",
   "keywords": [
     "ember-addon"
