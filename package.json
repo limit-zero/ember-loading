@@ -1,5 +1,5 @@
 {
-  "name": "ember-loading",
+  "name": "ember-loading-svc",
   "version": "0.1.0",
   "description": "An ember-cli addon providing a central loading service",
   "keywords": [
@@ -11,14 +11,14 @@
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "https://github.com/limit-zero/ember-loading",
+  "repository": "https://github.com/limit-zero/ember-loading-svc",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
     "test": "ember try:each"
   },
   "dependencies": {
-    "ember-cli-babel": "^5.1.7",
+    "ember-cli-babel": "^5.1.7"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
